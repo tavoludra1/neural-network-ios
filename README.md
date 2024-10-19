@@ -1,3 +1,5 @@
+
+![Project logo](neu-swift15x15.jpeg)
 # SwiftNeuron
 
 This repository explores the implementation of a basic neuron in Swift. The goal is to understand the fundamental building blocks of neural networks by building them from scratch, without relying on external machine learning libraries.
